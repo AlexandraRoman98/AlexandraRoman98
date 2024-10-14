@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there ✨
+I am an e-sports student trying to learn how to do programming <3!~ 
 <!--
 **AlexandraRoman98/AlexandraRoman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
